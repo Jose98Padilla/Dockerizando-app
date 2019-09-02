@@ -1,0 +1,1 @@
+print("Hola mundo en python, utilizando docker, creado por Jose Manuel Padilla")
